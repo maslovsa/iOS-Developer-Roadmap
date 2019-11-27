@@ -152,14 +152,14 @@
 - [X] git
 - [X] SVN
 
-## Caching and Presistency (2/4)
+## Caching and Presistency (3/4)
 
 - [X] Core Data
 - [X] Realm
 - [ ] YAPDatabase
 - [X] SQLite
 
-## Testing (3/5)
+## Testing (5/5)
 
 - [X] Unit Tests
 - [X] Snapshot Tests
@@ -180,15 +180,14 @@
 - [X] Instruments: Allocations
 - [ ] Zombies
 - [X] Activity monitor  
-- etc...
 
-## Continuous Integration (0/3)
+## Continuous Integration (2/3)
 
 - [X] Fastlane
 - [ ] Jenkins
 - [X] Xcode server
 
-## Computer Science knowledge (2/22)
+## Computer Science knowledge (17/22)
 
 - [X] Algorithms
   - [X] Sorting
@@ -216,7 +215,7 @@
   - [ ] Double-ended priority queue
   - [ ] Double-ended queue
 
-## Programming Paradigms (3/16)
+## Programming Paradigms
 
   - [X] Protocol-Oriented
   - [X] OOP
@@ -255,8 +254,8 @@
 ## Books
 
 - [X] [`Ray Wenderlich`]()
-  - [X] RxSwift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◼◼◼◽◽◽◽◽◽◽ 33%
-  - [X] Animations&nbsp;◼◽◽◽◽◽◽◽◽◽ 14%
+  - [X] RxSwift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  - [X] Animations&nbsp;
 - [X] Jon Hoffman. Swift 4. Protocol-oriented Programming
 
 ## ☑️ Course and tutorials
