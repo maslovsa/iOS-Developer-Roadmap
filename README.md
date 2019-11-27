@@ -1,9 +1,7 @@
 # iOS Developer Roadmap
-</br></br>
+
 ## CV
 * [LinkedIn profile](https://www.linkedin.com/in/maslovsa/)
-
-[Unsorted links and articles](unsorted.md)
 
 ## ☑️ Memory management  
 
@@ -452,7 +450,6 @@
 ## Contacts:
 * skype: maslovsa
 * email: [maslovsa@gmail.com](mailto:maslovsa@gmail.com)
-
 
 
 <!-- **Progress: ◽◽◽◽◽◽◽◽◽  0.0001%** -->
