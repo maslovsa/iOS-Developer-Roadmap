@@ -1,13 +1,11 @@
-![CodeWars](https://www.codewars.com/users/Torlopov-Andrey/badges/large)
-
 # iOS Developer Roadmap
 </br></br>
-## Archivements
-* [HackerRank profile](https://www.hackerrank.com/Torlopov_andrey?hr_r=1)
+## CV
+* [LinkedIn profile](https://www.linkedin.com/in/maslovsa/)
 
 [Unsorted links and articles](unsorted.md)
 
-## ☑️ Memory manadgment  
+## ☑️ Memory management  
 
   - [X] Stack and Heap
   - [X] Value vs Reference type
@@ -33,7 +31,7 @@
 ## ☑️ Multithreading and concurency
 
 * [Concurrency vs Multi-threading vs Asynchronous Programming : Explained](https://habr.com/ru/post/337528/)
-  
+
 - [X] [`GCD`](https://medium.com/@alexey_nenastev/всё-о-многопоточности-в-swift-часть-1-настоящее-f0b4d5718877)
   - [X] Semaphors
   - [X] DispatchGroup
@@ -77,8 +75,8 @@
   - [X] NSCoding
   - [X] Codable
   - [X] JSON
-  - [X] XML
-  
+  - [ ] XML
+
 ## ☑️ Software Architecture
 
 * [clean architecture 1](https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf)
@@ -86,6 +84,7 @@
 
 - [X] MVC
 - [X] MVVM
+- [X] MVVM+Rx
 - [X] MVP
 - [X] VIPER
 
@@ -99,40 +98,41 @@
   - [X] Prototype
   - [X] Object Pool
   - [X] Singleton
-- [ ] [`Structural`]()
+- [X] [`Structural`]()
   - [X] Adapter
   - [X] Bridge
   - [X] Composite
   - [X] Decorator
   - [X] Facade
   - [X] Flyweight
-  - [ ] Proxy
-- [ ] [`Behavioural`]()
+  - [X] Proxy
+- [X] [`Behavioural`]()
   - [X] Command
-  - [ ] Chain of responsibility
+  - [X] Chain of responsibility
   - [ ] Interpreter
-  - [ ] Iterator
-  - [ ] Mediator
+  - [X] Iterator
+  - [X] Mediator
   - [ ] Memento
   - [X] Observer
   - [X] State
   - [X] Strategy
-  - [ ] Visitor
-- [ ] [`Other`]()
-  - [ ] Anti-pattern
+  - [X] Visitor
+- [X] [`Other`]()
+  - [X] Massive View Controller
+  - [X] Anti-pattern
   - [ ] Class cluster
-  - [ ] Chain of Responsibility
+  - [X] Chain of Responsibility
   - [ ] Receptionist
   - [X] Template Method
 
 ## Design principles
 
-- [ ] [`SOLID`]()
+- [X] [`SOLID`]()
   - [X] Single responsibility principle
   - [X] Open/closed principle
   - [X] Liskov substitution principle
-  - [ ] Interface segregation principle
-  - [ ] Dependency inversion principle
+  - [X] Interface segregation principle
+  - [X] Dependency inversion principle
 - [X] Inversion of Control
 - [X] Dependency Injection
 - [X] Dry (don't repeat yourself)
@@ -157,19 +157,19 @@
 - [X] Core Data
 - [X] Realm
 - [ ] YAPDatabase
-- [ ] SQLite
+- [X] SQLite
 
 ## Testing (3/5)
 
 - [X] Unit Tests
-- [ ] Snapshot Tests
-- [ ] Functional test
+- [X] Snapshot Tests
+- [X] Functional test
 - [X] TDD
 - [X] BDD
 
 ## XCode/Tools/Debbuging (7/11)
 
-- [ ] Workspace/cocoapods
+- [X] Workspace/cocoapods
 - [X] Interface Builder
 - [X] Keychain
 - [ ] Security Transforms API
@@ -179,51 +179,51 @@
 - [X] Instruments: Time profiler
 - [X] Instruments: Allocations
 - [ ] Zombies
-- [ ] Activity monitor  
-- etc... 
+- [X] Activity monitor  
+- etc...
 
 ## Continuous Integration (0/3)
 
-- [ ] Fastlane
+- [X] Fastlane
 - [ ] Jenkins
-- [ ] Xcode server
+- [X] Xcode server
 
 ## Computer Science knowledge (2/22)
 
-- [ ] Algorithms
-  - [ ] Sorting
-  - [ ] Graph Theory -> Trees
-  - [ ] Strings
+- [X] Algorithms
+  - [X] Sorting
+  - [X] Graph Theory -> Trees
+  - [X] Strings
 
-  - [ ] Greedy
-  - [ ] Dynamic Programming
-  - [ ] Bit Manipulation
-  - [ ] Recursion
-  - [ ] Game Theory
-  - [ ] NP Complete
+  - [X] Greedy
+  - [X] Dynamic Programming
+  - [X] Bit Manipulation
+  - [X] Recursion
+  - [X] Game Theory
+  - [X] NP Complete
   - [X] Big-O notation
-- [ ] [`Abstract Data Types`]()
-  - [ ] Stack
-  - [ ] Array
-  - [ ] List
-  - [ ] Map
+- [X] [`Abstract Data Types`]()
+  - [X] Stack
+  - [X] Array
+  - [X] List
+  - [X] Map
   - [ ] Multimap
-  - [ ] Set
+  - [X] Set
   - [ ] Multiset (Bag)
-  - [ ] Graph -> Tree
+  - [X] Graph -> Tree
   - [X] Queue
-  - [ ] Priority Queue
+  - [X] Priority Queue
   - [ ] Double-ended priority queue
   - [ ] Double-ended queue
 
 ## Programming Paradigms (3/16)
 
-  - [X] Protocol-Oriented 
+  - [X] Protocol-Oriented
   - [X] OOP
-  - [ ] Functional
-  - [ ] React Native
-  - [ ] RxSwift
-  - [ ] RxRealm, RxDataSources
+  - [X] Functional
+  - [X] React Native
+  - [X] RxSwift
+  - [X] RxRealm, RxDataSources, RxFlow
 
 ## Libs, frameworks, pods, Kit's
 
@@ -231,32 +231,32 @@
 - [X] Charts (pod)
 - [X] Payments and subscription
 - [X] Moya
-- [ ] BLE (Bluetooth Low Energy)
-- [ ] AVFoundation
-- [ ] AVKit
-- [ ] ARKit
+- [X] BLE (Bluetooth Low Energy)
+- [X] AVFoundation
+- [X] AVKit
+- [X] ARKit
 - [ ] HomeKit
-- [ ] MedKit
-- [ ] MapKit
-- [ ] YandexMap
-- [ ] [`Animations`]()
-  - [ ] Core Graphics
-  - [ ] Core Animation
-  - [ ] Transformation
+- [X] MedKit
+- [X] MapKit
+- [X] YandexMap
+- [X] [`Animations`]()
+  - [X] Core Graphics
+  - [X] Core Animation
+  - [X] Transformation
 - [ ] [`tvOS`]()
   - [ ] Focus interactions
   - [ ] WatchKit
-- [ ] [`TDD utils`]()
+- [X] [`TDD utils`]()
   - [ ] Specta
   - [ ] Expecta
-  - [ ] OCMock
+  - [X] OCMock
 
 
-## Books 
+## Books
 
-- [ ] [`Ray Wenderlich`]()
-  - [ ] RxSwift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◼◼◼◽◽◽◽◽◽◽ 33%
-  - [ ] Animations&nbsp;◼◽◽◽◽◽◽◽◽◽ 14%
+- [X] [`Ray Wenderlich`]()
+  - [X] RxSwift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◼◼◼◽◽◽◽◽◽◽ 33%
+  - [X] Animations&nbsp;◼◽◽◽◽◽◽◽◽◽ 14%
 - [X] Jon Hoffman. Swift 4. Protocol-oriented Programming
 
 ## ☑️ Course and tutorials
@@ -267,9 +267,9 @@
 ## Articles (43/127)
 
 - [X] [Try to catch Zombie](https://oxozle.com/2016/01/25/lovim-zombi-obuekty-v-ios-xcode-ili-kak-reshat-message-sent-to-deallocated-instance/)
-- [ ] [Apple Human Interface Guideline](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/loading/)
+- [X] [Apple Human Interface Guideline](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/loading/)
 - [X] [Structs and class](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
-- [ ] [Design patterns](https://refactoring.guru/ru/design-patterns/prototype)
+- [X] [Design patterns](https://refactoring.guru/ru/design-patterns/prototype)
 - [X] [Swift styleguide](https://github.com/Torlopov-Andrey/swift-style-guide)
 - [X] [@AUTORELEASEPOOL](http://en.swifter.tips/autoreleasepool/)
 - [X] [Runloop](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html)
@@ -396,14 +396,14 @@
 
 ## Appendix
 
-- [ ] HTTP timeouts
+- [X] HTTP timeouts
 - [X] Когда удаляются autorelease объекты
 - [ ] Unsafe Swift
 - [ ] Лицензирование (Licenses)
 - [ ] SSH
 - [ ] Increase FPS
 - [ ] Decrease memory footprint
-- [ ] Protobuf
+- [X] Protobuf
 - [ ] Work in background mode
 - [ ] [Learning Path: RxSwift from Start to Finish](https://academy.realm.io/posts/learning-path-rxswift-from-start-to-finish/)
 - [ ] [fastlane Tutorial: Getting Started](https://www.raywenderlich.com/136168/fastlane-tutorial-getting-started-2)
@@ -450,10 +450,9 @@
 
 ![Skills matrix](matrix.png)
 
-## Контакты для связи:
-* skype: torlopov.andrey
-* email: [torlopov.andrey@gmail.com](mailto:torlopov.andrey@gmail.com)
-* github: [https://github.com/Torlopov-Andrey](https://github.com/Torlopov-Andrey)
+## Contacts:
+* skype: maslovsa
+* email: [maslovsa@gmail.com](mailto:maslovsa@gmail.com)
 
 
 
