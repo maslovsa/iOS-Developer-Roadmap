@@ -3,41 +3,41 @@
 <!-- **Progress: ◽◽◽◽◽◽◽◽◽  0.0001%** -->
 <!-- ☑️ -->
 
-##  Memory manadgment  
+##  Memory manedgment  
 
-  - [ ] Stack and Heap
-  - [ ] Value vs Reference type
-  - [ ] ARC
+  - [X] Stack and Heap
+  - [X] Value vs Reference type
+  - [X] ARC
   - [ ] MRC
-  - [ ] Retain cycles
-  - [ ] Memory leaks
-  - [ ] [Autorelease pool](https://developer.apple.com/documentation/foundation/nsautoreleasepool?language=occ)
+  - [X] Retain cycles
+  - [X] Memory leaks
+  - [X] [Autorelease pool](https://developer.apple.com/documentation/foundation/nsautoreleasepool?language=occ)
   - [ ] Shallow and deep copying
-  - [ ] Weak/Strong references
+  - [X] Weak/Strong references
 
 ## Swift
 
-- [ ] Closures
-- [ ] Generics
-- [ ] Initializers
-- [ ] Protocols
-- [ ] Struct
-- [ ] Enums
-- [ ] Runtime
+- [X] Closures
+- [X] Generics
+- [X] Initializers
+- [X] Protocols
+- [X] Struct
+- [X] Enums
+- [X] Runtime
 - [ ] Method dispatch
 
 ## Multithreading and concurency
 
 * [Concurrency vs Multi-threading vs Asynchronous Programming : Explained](https://habr.com/ru/post/337528/)
-  
-- [ ] [`GCD`](https://medium.com/@alexey_nenastev/всё-о-многопоточности-в-swift-часть-1-настоящее-f0b4d5718877)
+
+- [X] [`GCD`](https://medium.com/@alexey_nenastev/всё-о-многопоточности-в-swift-часть-1-настоящее-f0b4d5718877)
   - [ ] Semaphors
   - [ ] DispatchGroup
   - [ ] DispatchWorkItem
   - [ ] DispatchSource
 - [ ] NSOperationQueue
 - [ ] Race condition
-- [ ] Deadlock
+- [X] Deadlock
 - [ ] Livelock
 - [ ] Readers/writers problem
 - [ ] [Green threads](https://ru.wikipedia.org/wiki/Green_threads)
@@ -45,16 +45,16 @@
 
 ## `UIKit`
 
-- [ ] UIApplication
-- [ ] UIApplication: States
-- [ ] [`UIViews`]()
+- [X] UIApplication
+- [X] UIApplication: States
+- [X] [`UIViews`]()
   - [ ] UITableViews
   - [ ] UICollectionViews
-- [ ] [`Layout`]()
+- [X] [`Layout`]()
   - [ ] Frame-based
   - [ ] Autolayout
-- [ ] Navigation
-- [ ] UIViewController
+- [X] Navigation
+- [X] UIViewController
 - [ ] UIViewController: Lifecycle
 
 ## Networking
@@ -74,7 +74,7 @@
   - [ ] Codable
   - [ ] JSON
   - [ ] XML
-  
+
 ## Software Architecture
 
 * [clean architecture 1](https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf)
@@ -176,7 +176,7 @@
 - [ ] Instruments: Allocations
 - [ ] Zombies
 - [ ] Activity monitor  
-- etc... 
+- etc...
 
 ## Continuous Integration (0/3)
 
@@ -214,7 +214,7 @@
 
 ## Programming Paradigms (3/16)
 
-  - [ ] Protocol-Oriented 
+  - [ ] Protocol-Oriented
   - [ ] OOP
   - [ ] Functional
   - [ ] React Native
@@ -248,7 +248,7 @@
   - [ ] OCMock
 
 
-## Books 
+## Books
 
 - [ ] [`Ray Wenderlich`]()
   - [ ] RxSwift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◼◼◼◽◽◽◽◽◽◽ 33%
